@@ -1,6 +1,6 @@
 # 💼 Clínica Transformação
 
-🔗 **Acesse o site:** [https://clinica-transformacao.vercel.app](https://clinica-transformacao.vercel.app)
+🔗 **Acesse o site:** [https://clinicatransformacao.netlify.app/](https://clinicatransformacao.netlify.app/)
 
 Landing Page desenvolvida como **projeto freelancer** para a Clínica Transformação, uma instituição especializada em saúde mental e reabilitação. O objetivo foi criar uma presença online **responsiva, acessível e informativa**, destacando os serviços, missão e estrutura da clínica.
 
